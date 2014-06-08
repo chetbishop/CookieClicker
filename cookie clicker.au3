@@ -8,4 +8,5 @@ While 1
 	If $cookiemade = 0 Then
 		Exit (1)
 	EndIf
+	Sleep(10)
 WEnd
